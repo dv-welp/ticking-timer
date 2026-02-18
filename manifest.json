@@ -1,0 +1,20 @@
+{
+  "name": "Touch Assay Timer",
+  "short_name": "AssayTimer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-198.png",
+      "sizes": "198x198",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-509.png",
+      "sizes": "509x509",
+      "type": "image/png"
+    }
+  ]
+}
